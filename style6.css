@@ -5,7 +5,7 @@
 }
 .header1{
    height: 100vh;
-   background: linear-gradient(rgba(0,0,0,0.6)),url(midia/man.jpg)
+   background: linear-gradient(rgba(0,0,0,0.6)),url(/EX-3/midia/man.jpg)
    no-repeat center center/cover;
 }
 .navbar{
